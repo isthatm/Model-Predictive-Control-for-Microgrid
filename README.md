@@ -1,4 +1,4 @@
-# Model-Predictive-Cotrol-for-Microgrid
+# Model Predictive Cotrol for Microgrid
 
 In this script the MPC model regulates power flow in real time within a microgrid containing wind power plant (source),
 
